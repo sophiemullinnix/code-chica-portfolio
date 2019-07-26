@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    padding: 2em;
+}
+
+main {
+flex: 1 0 auto;
+}
+
+div.buttonWrapper {
+    margin: 1em;
+}
+
+div.button {
+    border: 3px solid green;
+    border-radius: 5px;
+    margin: 2.5%;
+    width: 7%;
+    height: 7%;
+    text-align: center;
+}
+
+div.button:hover {
+    background-color: green;
+    color: black;
+}
+
+#porttitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#firstp {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#headertwo {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+#pics {
+    
+}
